@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 cat("#########################################################################################\n",
-    "Welcome to TSANG script\n",
+    "Welcome to DucTrung script\n",
     "sangtq@ntu.edu.vn\n",
     "Nha Trang University\n",
     "Running taxonomy and Heatmap autoplot\n",
